@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  13 June url is live and functioning properly
+
+
+Update: Module links
