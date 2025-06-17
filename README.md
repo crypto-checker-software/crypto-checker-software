@@ -219,4 +219,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Module links
+
+
+Update: Link is now responsive and operational
